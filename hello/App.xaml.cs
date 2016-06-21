@@ -33,6 +33,7 @@ namespace hello
             this.Suspending += OnSuspending;
         }
 
+        // added useless comment
         /// <summary>
         /// Invoked when the application is launched normally by the end user.  Other entry points
         /// will be used such as when the application is launched to open a specific file.
